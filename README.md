@@ -1,0 +1,1 @@
+typescript确实很省心
